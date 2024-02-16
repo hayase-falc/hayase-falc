@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @hayase-falc Japanese university student,20.
-- 👀 I’m interested in development of Mixed Reality.
+- 👋 Hi, I’m @hayase-falc Japanese Enginner with UnrealEIngine5,23.
+- 👀 I’m interested in development of Game Create and Mixed Reality.
 - 🌱 I’m currently learning how to set up Mixed Reality and Azure Remote Rendering.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on .
 - 📫 How to reach me https://www.facebook.com/profile.php?id=100042091387292
 
 <!---
